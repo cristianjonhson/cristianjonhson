@@ -1,4 +1,4 @@
-<h1>Hola!, Soy Cristian Jonhson | Dev. Full Stack / Back-End <img src ="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h1>
+<h1>Hola!, Soy Dev. Full Stack / Back-End <img src ="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h1>
 
 <div size='42px'>Gracias por visitar mi perfil :smile: 
 </div>
