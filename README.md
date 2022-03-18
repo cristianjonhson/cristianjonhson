@@ -121,7 +121,7 @@
      </a>
 </p>
 
-### 🎧 Others:
+### 🎧 Testing:
 
 <p align="left">
     <!-- Postman -->
@@ -132,7 +132,10 @@
     <a href="https://git-scm.com" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="5%" height="5%"/>
     </a>
-
+    <!-- Jenkins -->
+    <a href="https://git-scm.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="5%" height="5%" />
+    </a>
 </p>
 
 
