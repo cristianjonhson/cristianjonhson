@@ -139,7 +139,7 @@
 </p>
 
 
-## &#x1f4c8; GitHub Stats
+## &#x1f4c8; GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25px'>
 
 <a href="https://github.com/cristianjonhson">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianjonhson&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
@@ -148,6 +148,16 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=cristianjonhson&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 
+
+
+<!--
+
+---Snake pero con githubactions
+<p align="center">
+<img src="https://github.com/cristianjonhson/cristianjonhson/blob/output/github-contribution-grid-snake.svg">
+</p>
+
+-->
 
 <!--
 <a href="https://github.com/MartinHeinz/python-project-blueprint">
@@ -169,22 +179,11 @@
 [Lo puedes ver acá!](https://yanneviltwin.github.io/portfolio/)
 
 ![](https://media.giphy.com/media/tTR8i9hhxGKp3KD46E/giphy.gif)
-
-<h2> Mis Stats en GitHub <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
-
-
-
-<p align="left">
-  <a href="https://github.com/cristianjonhson"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianjonhson&hide=html,scss,css, stylus&langs_count=10&layout=compact&theme=prussian">
-</p>
-
-
-
-
+-->
 <!--
 **cristianjonhson/cristianjonhson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-⭐️ From [priyanshumay](https://github.com/priyanshumay)
+⭐️ From [cristianjonhson](https://github.com/cristianjonhson)
 
 Here are some ideas to get you started:
 
@@ -196,4 +195,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
