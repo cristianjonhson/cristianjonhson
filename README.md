@@ -1,5 +1,5 @@
 <p align="center">
-  <h1><img src="https://readme-typing-svg.herokuapp.com/?lines=%20Soy%20Full-Stack%20Web%20App%20Developer;Experienced%20%2F%20Backend;3%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=b45f06&vCenter=true&size=22"> 
+  <h1><img src="https://readme-typing-svg.herokuapp.com/?lines=%20Soy%20Full-Stack%20Web%20App%20Developer;Experienced%20%2F%20Backend;4%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=b45f06&vCenter=true&size=22"> 
 <img src ="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
 </h1>
 </p>
@@ -138,6 +138,28 @@
     </a>
 </p>
 
+
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/cristianjonhson">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianjonhson&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/cristianjonhson">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cristianjonhson&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
+
+
+<!--
+<a href="https://github.com/MartinHeinz/python-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
+<a href="https://github.com/MartinHeinz/go-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a> 
+
+-->
 
 <!--
 
