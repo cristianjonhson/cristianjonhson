@@ -1,23 +1,23 @@
 <p align="center">
-  <h1><img src="https://readme-typing-svg.herokuapp.com/?lines=%20Soy%20Full-Stack%20Web%20App%20Developer;Experienced%20%2F%20Backend;4%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=b45f06&vCenter=true&size=22"> 
+  <h1><img src="https://readme-typing-svg.herokuapp.com/?lines=%20I'm%20Full-Stack%20Web%20Developer;4%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=b45f06&vCenter=true&size=22"> 
 <img src ="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
 </h1>
 </p>
 
-<div size='42px'>Gracias por visitar mi perfil :smile: 
+<div size='42px'>Thanks for visiting my profile :smile: 
 </div>
 </br>
 
-<h2>Sobre mi 🚀</h2>
+<h2>Summary 🚀</h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🌱 Estoy aprendiendo Tecnologias Cloud y ampliando mis conocimientos en CI/CD.
+- 🌱 I am learning Cloud Technologies and expanding my knowledge in CI/CD.
 
-- 💬 Conmigo puedes hablar sobre series, música, cine, y código! 
+- 💬 With me you can talk about series, music, movies, and code! 
 
-- 📫  Contáctame en: 
+- 📫  Contact me: 
 
      [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-jonhson-alvarez/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:cristian.jonhson@gmail.com) <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px">
