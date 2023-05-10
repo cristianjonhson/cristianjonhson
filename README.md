@@ -1,28 +1,30 @@
-<p align="center">
-  <h1><img src="https://readme-typing-svg.herokuapp.com/?lines=%20I'm%20Full-Stack%20Web%20Developer;4%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=b45f06&vCenter=true&size=22"> 
+<h1><img src="https://readme-typing-svg.herokuapp.com/?lines=%20I'm%20Full-Stack%20Web%20Developer;4%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=b45f06&vCenter=true&size=22"> 
 <img src ="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
 </h1>
-</p>
 
-<div size='42px'>Thanks for visiting my profile :smile: 
+<div size='42px'>Thanks for visiting my profile :smile:! +4 years of experience of Software Web Development. Usually, products driven to always adding value for the user. Participated in follow-up meetings with the client in the definition of specifications, functionalities and business rules for further development. Specialized on development technologies.
 </div>
-</br>
 
 <h2>Summary 🚀</h2>
+<div align="left">
+🌱 I am learning Cloud Technologies and expanding my knowledge in CI/CD.
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+💬 With me you can talk about series, music, movies, and code! 
 
+📫  Contact me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px">
+  <br></br>
 
-- 🌱 I am learning Cloud Technologies and expanding my knowledge in CI/CD.
+<a href="https://www.linkedin.com/in/cristian-jonhson-alvarez">
+  <img align="left" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" />
+</a>
+<a href="mailto:cristian.jonhson@gmail.com">
+  <img align="left" src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" />
+</a>
+</div>
+<img width="65%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 💬 With me you can talk about series, music, movies, and code! 
-
-- 📫  Contact me: 
-
-     [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-jonhson-alvarez/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:cristian.jonhson@gmail.com) <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px">
-
-<h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Skills <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  </h2>
+ <br></br>
+<h3><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Skills Tech <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  </h3>
 
 <!--
 <div>Frontend 
@@ -45,98 +47,17 @@
 <a href= > <img width ='100px' src ='https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg'> </a>
 <a href= > <img width ='87px' src ='https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg'> </a>
 
-
-
 -->
 
-### 🎷 Backend:
 
-<p align="left">
-<!-- JavaScript -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="5%" height="5%"/>
-    </a>
-     <!-- NodeJS -->
-    <a href="https://nodejs.org" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="5%" height="5%"/>
-    </a>
-    <!-- C# -->
-    <a href="https://docs.microsoft.com/en-us/dotnet/csharp" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="5%" height="5%"/>
-    </a>
-    <!-- Java -->
-    <a href="https://www.java.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="5%" height="5%"/>
-    </a>
-      <!-- Spring Boot -->
-    <a href="https://spring.io" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="5%" height="5%"/>
-    </a>
-</p>
-<!-- React 
-### 🎼 Back end:
 
-<p align="left">
-    
-
-</p>
--->
-
-### 🎶 Front end:
-
-<p align="left">
-    <!-- React -->
-    <a href="https://reactjs.org" target="_blank">
-        <img src="https://reactnative.dev/img/header_logo.svg" alt="react" width="5%" height="5%"/>
-        <!-- <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> -->
-    </a>
-    <!-- Redux -->
-    <a href="https://redux.js.org" target="_blank">
-       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="5%" height="5%"/>
-    </a>
-    <!-- Angular -->
-    <a href="https://angular.io" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="5%" height="5%"/>
-    </a>
-    <!-- Sass -->
-    <a href="https://sass-lang.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="5%" height="5%"/>
-    </a>
-</p>
-
-### 💿 Databases:
-
-<p align="left">
-    <!-- PostgreSQL -->
-    <a href="https://www.postgresql.org" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="5%" height="5%"/>
-    </a>
-    <!-- MSSQL (SQL Server) -->
-    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-        <img src="https://static.cdnlogo.com/logos/m/21/microsoft-sql-server.svg" alt="mssql" width="5%" height="5%"/>
-    </a>
-     <!-- Oracle -->
-    <a href="" target="_blank">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="5%" height="5%" />
-     </a>
-</p>
-
-### 🎧 Testing:
-
-<p align="left">
-     <!-- Jenkins -->
-    <a href="https://git-scm.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="5%" height="5%" />
-    </a>
-    <!-- Postman -->
-    <a href="https://postman.com" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="5%" height="5%"/>
-    </a>
-    <!-- Git -->
-    <a href="https://git-scm.com" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="5%" height="5%"/>
-    </a>
-</p>
+| Backend |Frontend | Database |  Tools |
+| -------- | ------- |  -------- | -------- |
+|  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="50" /> | <img src="https://reactnative.dev/img/header_logo.svg" alt="react" width="70%"/>  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="70%" />  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="100%" /> 
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="100%" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="70%"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="90%" /> | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="80%"/> 
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp"  width="70%"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="70%" />   | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="90%">  |  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="70%"/>
+|  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"  width="70%"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="50%"/>     |   | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"  alt="aws" width="90%" />
+|  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring"  width="70%"/> 
 
 
 ## &#x1f4c8; GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25px'>
