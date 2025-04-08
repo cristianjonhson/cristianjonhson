@@ -2,7 +2,7 @@
 <img src ="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
 </h1>
 
-<div size='42px'>Thanks for visiting my profile :smile:! +4 years of experience of Software Web Development. Usually, products driven to always adding value for the user. Participated in follow-up meetings with the client in the definition of specifications, functionalities and business rules for further development. Specialized on development technologies.
+<div size='42px'>Thanks for visiting my profile :smile:! +5 years of experience of Software Web Development. Usually, products driven to always adding value for the user. Participated in follow-up meetings with the client in the definition of specifications, functionalities and business rules for further development. Specialized on development technologies.
 </div>
 
 <h2>Summary 🚀</h2>
@@ -53,9 +53,9 @@
 | Backend |Frontend | Database |  Tools |
 | -------- | ------- |  -------- | -------- |
 |  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="50" /> | <img src="https://reactnative.dev/img/header_logo.svg" alt="react" width="70%"/>  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="70%" />  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="100%" /> 
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="100%" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="70%"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="90%" /> | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="80%"/> 
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="90%" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="70%"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="90%" /> | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="90%"/> 
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp"  width="70%"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="80%" />   | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="90%">  |  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" />
-|  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"  width="70%"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="70%"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="90%" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"  alt="aws" width="90%" /> | | 
+|  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"  width="70%"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="70%"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="90%" /> | <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"  alt="aws" width="90%" /> | | 
 |  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring"  width="70%"/> | | |  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="100%" />
 
 
