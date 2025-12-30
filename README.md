@@ -111,7 +111,7 @@ const cristian = {
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=cristianjonhson&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&border_radius=10"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cristianjonhson&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cristianjonhson&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&border_radius=10&hide=html,css"/>
 </div>
 
 <br/>
