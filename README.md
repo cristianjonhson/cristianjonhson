@@ -40,7 +40,8 @@ const cristian = {
         "Best Practices", 
         "Innovation"
     ],
-    funFact: "I love discussing series, music,\n              movies, and of course... code!"
+    funFact: "I love discussing series, music, movies, " +
+             "and of course... code! 🎬🎵💻"
 };
 ```
 
