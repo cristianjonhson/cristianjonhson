@@ -23,7 +23,9 @@
 
 ## 👨‍💻 About Me
 
-<img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ```typescript
 const cristian = {
@@ -45,6 +47,11 @@ const cristian = {
 };
 ```
 
+</td>
+<td width="50%" valign="top">
+
+<img width="100%" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
 ### 🚀 What I Do
 
 - 💡 Building user-centric products that deliver real value
@@ -52,7 +59,9 @@ const cristian = {
 - 📊 Participating in the full development lifecycle  
 - 🌱 Currently expanding my expertise in Cloud Technologies and CI/CD pipelines
 
-<br clear="right"/>
+</td>
+</tr>
+</table>
 
 ---
 
