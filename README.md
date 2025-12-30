@@ -101,14 +101,20 @@ const cristian = {
 ## 📊 GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25px'>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cristianjonhson&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianjonhson&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=cristianjonhson&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cristianjonhson&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&border_radius=10"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cristianjonhson&theme=tokyonight&hide_border=true&background=0D1117" alt="cristianjonhson" />
+  <img src="https://streak-stats.demolab.com/?user=cristianjonhson&theme=tokyonight&hide_border=true&background=0D1117&border_radius=10" alt="cristianjonhson" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cristianjonhson&theme=tokyo-night&hide_border=true&bg_color=0D1117&radius=10" alt="Activity Graph" />
 </div>
 
 ---
