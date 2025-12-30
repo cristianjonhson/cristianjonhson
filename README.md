@@ -12,32 +12,46 @@
   <a href="https://www.linkedin.com/in/cristian-jonhson-alvarez">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
   </a>
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> 
   <a href="mailto:cristian.jonhson@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
   </a>
 </p>
 
+<br/>
+
 ---
 
 ## 👨‍💻 About Me
+
+<img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 ```typescript
 const cristian = {
     location: "🌎 Based in",
     experience: "5+ years",
     role: "Full-Stack Web Developer",
-    currentFocus: ["Cloud Technologies", "CI/CD", "Scalable Architectures"],
-    interests: ["Clean Code", "Best Practices", "Innovation"],
-    funFact: "I love discussing series, music, movies, and of course... code! 🎬🎵💻"
+    currentFocus: [
+        "Cloud Technologies", 
+        "CI/CD", 
+        "Scalable Architectures"
+    ],
+    interests: [
+        "Clean Code", 
+        "Best Practices", 
+        "Innovation"
+    ],
+    funFact: "I love discussing series, music,\n              movies, and of course... code!"
 };
 ```
 
-🚀 **What I Do:**
+### 🚀 What I Do
+
 - 💡 Building user-centric products that deliver real value
 - 🤝 Collaborating with clients to define specifications and business rules
-- 📊 Participating in the full development lifecycle
+- 📊 Participating in the full development lifecycle  
 - 🌱 Currently expanding my expertise in Cloud Technologies and CI/CD pipelines
+
+<br clear="right"/>
 
 ---
 
@@ -45,63 +59,76 @@ const cristian = {
 
 <div align="center">
 
-### Backend Development
+### 💻 Backend Development
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" style="margin: 10px;"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" style="margin: 10px;"/>&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="50" height="50" style="margin: 10px;"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50" style="margin: 10px;"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50" style="margin: 10px;"/>
 </p>
 
-### Frontend Development
+### 🎨 Frontend Development
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50" style="margin: 10px;"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="50" height="50" style="margin: 10px;"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="50" height="50" style="margin: 10px;"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="50" height="50" style="margin: 10px;"/>
 </p>
 
-### Databases
+### 🗄️ Databases
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50" style="margin: 10px;"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50" style="margin: 10px;"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="50" height="50" style="margin: 10px;"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="50" height="50" style="margin: 10px;"/>
 </p>
 
-### DevOps & Tools
+### 🛠️ DevOps & Tools
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" style="margin: 10px;"/>&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="50" height="50" style="margin: 10px;"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="50" height="50" style="margin: 10px;"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50" style="margin: 10px;"/>&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50" style="margin: 10px;"/>
 </p>
 
 </div>
 
 ---
 
-## 📊 GitHub Stats  <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25px'>
+## 📊 GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25px'>
 
-<!-- <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cristianjonhson&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianjonhson&layout=compact&langs_count=8&theme=tokyonight"/>
-</div> -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cristianjonhson&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianjonhson&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+</div>
 
-<!-- <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cristianjonhson&theme=tokyonight" alt="cristianjonhson" />
-</div> -->
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cristianjonhson&theme=tokyonight&hide_border=true&background=0D1117" alt="cristianjonhson" />
+</div>
 
 ---
+
+<br/>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=cristianjonhson&color=0891b2&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
 </div>
 
+<br/>
+
 <div align="center">
-  <sub>⚡ Built with passion and coffee ☕</sub>
+  <h3>💭 Quote of the Day</h3>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <sub>⚡ Built with passion and coffee ☕ | Made with ❤️ by Cristian Jonhson</sub>
 </div>
 
 
