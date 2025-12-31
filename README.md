@@ -126,6 +126,13 @@ const cristian = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cristianjonhson&theme=tokyo-night&hide_border=true&bg_color=0D1117&radius=10" alt="Activity Graph" />
 </div>
 
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cristianjonhson&theme=tokyonight" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cristianjonhson&theme=tokyonight" alt="Most Commit Language" />
+</div>
+
 ---
 
 <br/>
