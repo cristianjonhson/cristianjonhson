@@ -15,6 +15,8 @@
   <a href="mailto:cristian.jonhson@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
   </a>
+  <a> <img src="https://komarev.com/ghpvc/?username=cristianjonhson&color=0891b2&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+  </a>
 </p>
 
 <br/>
@@ -133,14 +135,6 @@ const cristian = {
 </div>
 
 ---
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=cristianjonhson&color=0891b2&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
-</div>
-
-<br/>
 
 <div align="center">
   <h3>💭 Quote of the Day</h3>
