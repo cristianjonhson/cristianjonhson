@@ -112,7 +112,7 @@ const cristian = {
 <div align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=cristianjonhson&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&border_radius=10"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cristianjonhson&theme=tokyonight" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cristianjonhson&theme=tokyonight" alt="Most Commit Language" />
+  <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cristianjonhson&theme=tokyonight" alt="Most Commit Language" /> -->
 </div>
 
 <br/>
